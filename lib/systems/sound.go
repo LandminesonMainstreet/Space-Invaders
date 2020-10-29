@@ -1,8 +1,8 @@
 package systems
 
 import (
-	"github.com/x-hgg-x/space-invaders-go/lib/loader"
-	"github.com/x-hgg-x/space-invaders-go/lib/resources"
+	"github.com/LandminesonMainstreet/Space-Invaders/lib/loader"
+	"github.com/LandminesonMainstreet/Space-Invaders/lib/resources"
 
 	w "github.com/x-hgg-x/goecsengine/world"
 )
