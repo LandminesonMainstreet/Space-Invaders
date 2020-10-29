@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"image/color"
 
-	gc "github.com/x-hgg-x/space-invaders-go/lib/components"
-	"github.com/x-hgg-x/space-invaders-go/lib/resources"
+	gc "github.com/LandminesonMainstreet/Space-Invaders/lib/components"
+	"github.com/LandminesonMainstreet/Space-Invaders/lib/resources"
 
 	ecs "github.com/x-hgg-x/goecs/v2"
 	ec "github.com/x-hgg-x/goecsengine/components"
