@@ -1,7 +1,7 @@
 package systems
 
 import (
-	gc "github.com/x-hgg-x/space-invaders-go/lib/components"
+	gc "github.com/LandminesonMainstreet/Space-Invaders/lib/components"
 
 	ecs "github.com/x-hgg-x/goecs/v2"
 	ec "github.com/x-hgg-x/goecsengine/components"
