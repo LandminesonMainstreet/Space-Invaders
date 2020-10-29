@@ -1,10 +1,10 @@
 package main
 
 import (
-	gc "github.com/x-hgg-x/space-invaders-go/lib/components"
-	gloader "github.com/x-hgg-x/space-invaders-go/lib/loader"
-	gr "github.com/x-hgg-x/space-invaders-go/lib/resources"
-	gs "github.com/x-hgg-x/space-invaders-go/lib/states"
+	gc "github.com/LandminesonMainstreet/Space-Invaders/lib/components"
+	gloader "github.com/LandminesonMainstreet/Space-Invaders/lib/loader"
+	gr "github.com/LandminesonMainstreet/Space-Invaders/lib/resources"
+	gs "github.com/LandminesonMainstreet/Space-Invaders/lib/states"
 
 	"github.com/x-hgg-x/goecsengine/loader"
 	er "github.com/x-hgg-x/goecsengine/resources"

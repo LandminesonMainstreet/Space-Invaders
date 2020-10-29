@@ -1,7 +1,7 @@
 package loader
 
 import (
-	gc "github.com/x-hgg-x/space-invaders-go/lib/components"
+	gc "github.com/LandminesonMainstreet/Space-Invaders/lib/components"
 
 	"github.com/x-hgg-x/goecsengine/loader"
 	"github.com/x-hgg-x/goecsengine/utils"
