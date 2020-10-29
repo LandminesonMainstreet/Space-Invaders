@@ -1,9 +1,9 @@
 package states
 
 import (
-	gc "github.com/x-hgg-x/space-invaders-go/lib/components"
-	"github.com/x-hgg-x/space-invaders-go/lib/resources"
-	g "github.com/x-hgg-x/space-invaders-go/lib/systems"
+	gc "github.com/LandminesonMainstreet/Space-Invaders/lib/components"
+	"github.com/LandminesonMainstreet/Space-Invaders/lib/resources"
+	g "github.com/LandminesonMainstreet/Space-Invaders/lib/systems"
 
 	ecs "github.com/x-hgg-x/goecs/v2"
 	ec "github.com/x-hgg-x/goecsengine/components"

@@ -3,8 +3,8 @@ package states
 import (
 	"fmt"
 
-	"github.com/x-hgg-x/space-invaders-go/lib/resources"
-	g "github.com/x-hgg-x/space-invaders-go/lib/systems"
+	"github.com/LandminesonMainstreet/Space-Invaders/lib/resources"
+	g "github.com/LandminesonMainstreet/Space-Invaders/lib/systems"
 
 	ecs "github.com/x-hgg-x/goecs/v2"
 	"github.com/x-hgg-x/goecsengine/loader"
