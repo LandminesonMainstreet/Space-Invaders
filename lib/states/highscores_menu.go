@@ -8,8 +8,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/x-hgg-x/space-invaders-go/lib/math"
-	"github.com/x-hgg-x/space-invaders-go/lib/resources"
+	"github.com/LandminesonMainstreet/Space-Invaders/lib/math"
+	"github.com/LandminesonMainstreet/Space-Invaders/lib/resources"
 
 	ecs "github.com/x-hgg-x/goecs/v2"
 	ec "github.com/x-hgg-x/goecsengine/components"
